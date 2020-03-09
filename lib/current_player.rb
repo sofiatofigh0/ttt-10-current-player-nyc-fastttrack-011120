@@ -11,7 +11,7 @@ end
 
 def current_player(board)
   
- if turn_count == 1 || turn_count == 3 || turn_count ==5
+ if turn_count == 1 || turn_count == 3
    "X"
  else
    "0"
